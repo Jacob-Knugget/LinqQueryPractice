@@ -1,0 +1,15 @@
+C:\Users\jacob\source\repos\LinqQueryPractice\bin\Debug\net6.0\LinqQueryPractice.exe
+C:\Users\jacob\source\repos\LinqQueryPractice\bin\Debug\net6.0\LinqQueryPractice.deps.json
+C:\Users\jacob\source\repos\LinqQueryPractice\bin\Debug\net6.0\LinqQueryPractice.runtimeconfig.json
+C:\Users\jacob\source\repos\LinqQueryPractice\bin\Debug\net6.0\LinqQueryPractice.dll
+C:\Users\jacob\source\repos\LinqQueryPractice\bin\Debug\net6.0\LinqQueryPractice.pdb
+C:\Users\jacob\source\repos\LinqQueryPractice\obj\Debug\net6.0\LinqQueryPractice.csproj.AssemblyReference.cache
+C:\Users\jacob\source\repos\LinqQueryPractice\obj\Debug\net6.0\LinqQueryPractice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jacob\source\repos\LinqQueryPractice\obj\Debug\net6.0\LinqQueryPractice.AssemblyInfoInputs.cache
+C:\Users\jacob\source\repos\LinqQueryPractice\obj\Debug\net6.0\LinqQueryPractice.AssemblyInfo.cs
+C:\Users\jacob\source\repos\LinqQueryPractice\obj\Debug\net6.0\LinqQueryPractice.csproj.CoreCompileInputs.cache
+C:\Users\jacob\source\repos\LinqQueryPractice\obj\Debug\net6.0\LinqQueryPractice.dll
+C:\Users\jacob\source\repos\LinqQueryPractice\obj\Debug\net6.0\refint\LinqQueryPractice.dll
+C:\Users\jacob\source\repos\LinqQueryPractice\obj\Debug\net6.0\LinqQueryPractice.pdb
+C:\Users\jacob\source\repos\LinqQueryPractice\obj\Debug\net6.0\LinqQueryPractice.genruntimeconfig.cache
+C:\Users\jacob\source\repos\LinqQueryPractice\obj\Debug\net6.0\ref\LinqQueryPractice.dll
